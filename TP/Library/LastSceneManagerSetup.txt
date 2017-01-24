@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Paysage.unity
+  isLoaded: 1
+  isActive: 1
